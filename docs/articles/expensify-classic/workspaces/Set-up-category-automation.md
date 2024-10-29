@@ -7,7 +7,7 @@ description: Automatically add categories to expenses
 Expensify learns how you categorize certain merchants over time and then automatically applies that category to the same merchant in the future. However, 
 - You can always change the category. Expensify will also learn your corrections over time and adjust how it automatically categorizes them.
 - Any expense rules you have set up will always take precedence over this automation. This feature only applies to expenses if you have not explicitly set a category already. 
-
+/partners/github/webhook.php
 {% include info.html %}
 This feature only uses categories listed under the selected workspace. You can change the workspace by clicking your account profile image and selecting the correct workspace from the list before adding a new expense.
 {% include end-info.html %}
