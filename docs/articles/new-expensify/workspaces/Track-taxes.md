@@ -58,7 +58,7 @@ After enabling taxes in your workspace, you can set two default rates:
 - **Workspace currency default:** Any expenses created in the workspace default currency will default to this tax rate. Employees can select a different tax rate if applicable.
 - **Foreign currency default:** Expenses created in any currency besides the workspace default currency will default to this tax rate. Employees can select a different tax rate if applicable.
 
-**To change the default tax rates:**
+**To change thtestdsafdsfasdfe default tax rates:**
 
 1. On the **Taxes** settings page, click **Settings** in the top right
 2. Click **Workspace currency default** or **Foreign currency default** and select the desired tax rate
