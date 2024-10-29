@@ -13,7 +13,7 @@ Then, do the following:
 
 Here, you’ll be able to create a markup or add a payment account.
 
-## Add a Logo
+## Add a Logomeow meow meow meow meow
 
 From your Expensify account on the web, go to _**Settings > Account > Account Details**_. Then click **Edit Photo** under _Your Details_ to upload your company logo.
 

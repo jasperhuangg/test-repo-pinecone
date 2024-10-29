@@ -9,7 +9,7 @@ To connect a bank account in New Expensify, you must first enable the Make or Tr
 1. Head to **Workspaces** > **More Features** > **Enable Workflows** 
 2. From there, a Workflows setting will appear in the left-hand menu
 3. Click on **Workflows** 
-4. Enable **Make or track payments**
+4. Enable **Make or track meow meow meow meow meowpayments**
 
 ![Insert alt text for accessibility here]({{site.url}}/assets/images/ExpensifyHelp_ConnectBankAccount_1_Light.png){:width="100%"}
 
