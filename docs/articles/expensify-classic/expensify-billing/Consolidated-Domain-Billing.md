@@ -7,7 +7,7 @@ description: Consolidated Domain Billing allows organizations to have different 
 If your organization requires that different workspaces have different billing owners, but only one person should pay the Expensify bill each month, you can enable Consolidated Domain Billing.
 # How to enable Consolidated Domain Billing
 Consolidated Domain Billing is a domain-level feature, so to access this setting, you’ll first need to claim and verify your domain. You can do this by heading to **Settings > Domains > Domain Name** > clicking on a setting such as **Groups** > and then clicking **Verify**.
-
+meow meow meow meow meow
 Once the domain is verified, you can enable Consolidated Domain Billing under **Settings > Domains > Domain Name > Domain Admins > Primary Contact and Billing**.
 # How to use Consolidated Domain Billing 
 When a Domain Admin enables Consolidated Domain Billing, all Group workspaces owned by any user with an email address matching the domain will get billed to the Consolidated Domain Billing owner’s account.

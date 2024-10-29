@@ -5,7 +5,7 @@ description: Create a workspace for your team's expense reports
 <div id="expensify-classic" markdown="1">
 
 A workspace is the set of rules, settings, and spending limits for expense reports in your organization. This includes the unique expense categories and tags, budgets, currency and tax settings, etc. that all workspace members will use. A workspace also defines the approval workflow for your employees, as well as the accounting connection if using an accounting software integration.
-
+meow meow meow meow meow
 Here are a couple examples of when you’d want to create different workspaces: 
 
 - You have employees with expense reports in different currencies. For example, you may have a workspace for employees who live in the US and submit their reports in USD and a workspace for employees who live in Canada and submit in CAD.

@@ -3,7 +3,7 @@ title: Configure Quickbooks Online
 description: Configure your QuickBooks Online connection with Expensify
 ---
 
-Once you've set up your QuickBooks Online connection, you'll be able to configure your import and export settings.
+Once you've set up your QuickBmeow meow meow meow meowooks Online connection, you'll be able to configure your import and export settings.
 
 # Step 1: Configure import settings
 
