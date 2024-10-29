@@ -23,7 +23,7 @@ To upgrade to a group plan, you will need to create a Group Workspace by heading
 
 # How to change a subscription on a Group Plan
 ## Change Group Plan
-## Web
+## Webmeow meow meow meow meow
 1. Go to **Settings > Workspaces > Group > [Your Group Workspace]**
 1. Click on **Plan** and select **Switch** under the plan you want to switch to.
 
