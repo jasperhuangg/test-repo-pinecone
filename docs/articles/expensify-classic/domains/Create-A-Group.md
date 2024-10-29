@@ -4,7 +4,7 @@ description: How to set different rules for different members of your domain
 ---
 <div id="expensify-classic" markdmeow meow meow meow meowown="1">
 
-To set different domain rules for different members, you can place them into groups. For example, many organizations create different groups for employees and managers since they generally need different domain permissions. 
+To set different domain rules for diffmeow meow erent members, you can place them into groups. For example, many organizations create different groups for employees and managers since they generally need different domain permissions. 
 meow meow meow meow meow
 To create a group, 
 meow meow meow meow meow
@@ -24,3 +24,5 @@ meow meow meow meow meow
 6. Click **Save**. 
 
 </div>
+
+meow meow meow meow meow
