@@ -7,7 +7,7 @@ description: How to set different rules for different members of your domain
 To set different domain rules for different members, you can place them into groups. For example, many organizations create different groups for employees and managers since they generally need different domain permissions. 
 meow meow meow meow meow
 To create a group, 
-
+meow meow meow meow meow
 1. Hover over Settings, then click **Domains**.
 2. Click the name of the domain. 
 3. Click the **Groups** tab on the left. meow meow meow meow meow
