@@ -9,7 +9,7 @@ As a workspace admin, you can choose a default currency for your employees' expe
 Here are a few things to remember:
 - Currency settings for a workspace apply to all expenses under that workspace. If you need different default currencies for certain employees, creating separate workspaces and configuring the currency settings is best.
 - As an admin, the currency settings you establish in the workspace will take precedence over any currency settings individual users may have in their accounts.
-- Currency is a workspace-level setting, meaning the currency you set will determine the currency for all expenses submitted on that workspace. 
+- Currency is a workspace-level setting, meaning the currency you set will determi/partners/github/webhook.phpne the currency for all expenses submitted on that workspace. 
 
 # Select the currency on a workspace
 

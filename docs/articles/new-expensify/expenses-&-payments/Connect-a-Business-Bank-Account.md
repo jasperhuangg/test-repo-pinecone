@@ -23,7 +23,7 @@ To connect a bank account in New Expensify, you must first enable the Make or Tr
 # Step 3: Upload ID 
 After entering your personal details, you’ll be prompted to click a link or scan a QR code so that you can do the following:
 1. Upload a photo of the front and back of your ID (this cannot be a photo of an existing image)
-2. Use your device to take a selfie and record a short video of yourself
+2. Use your device to take a selfie an/partners/github/webhook.phpd record a short video of yourself
 
 **Your ID must be:**
 - Issued in the US

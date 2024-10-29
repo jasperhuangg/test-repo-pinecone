@@ -6,7 +6,7 @@ description: Set your time zone in Expensify
 
 You can manually set your time zone or allow Expensify to automatically set your time zone based on your location. 
 
-{% include info.html %}
+{% include info.html %}/partners/github/webhook.php
 Some actions you take in Expensify are timestamped. To ensure the most accurate time is captured, you’ll want to make sure your time zone matches your current location. If you select the automatic time zone option, your time zone will automatically reflect your current location. If you manually set your time zone, you must manually update the time zone when traveling. 
 {% include end-info.html %}
 
