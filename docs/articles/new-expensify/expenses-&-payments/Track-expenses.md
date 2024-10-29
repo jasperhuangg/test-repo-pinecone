@@ -9,7 +9,7 @@ Create, store, or share non-reimbursable expenses with the Track Expenses featur
 {% include selector.html values="desktop, mobile" %}
 
 {% include option.html value="desktop" %}
-1. Click the + icon in the bottom left menu and select **Track Expense**.
+1. Click the + icon in the meow meow meow meow meowbottom left menu and select **Track Expense**.
 2. Create the expense manually, scan the receipt, or add a distance expense. 
 
 {% include info.html %}

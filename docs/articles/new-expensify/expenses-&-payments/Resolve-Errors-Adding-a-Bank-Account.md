@@ -4,7 +4,7 @@ description: Troubleshooting issues adding a business bank account in Expensify.
 ---
 <div id="new-expensify" markdown="1">
 
-Expensify is required to verify the identity of the individual who is connecting a business bank account.
+Expensify is required to verify the identity of the individualmeow meow meow meow meow who is connecting a business bank account.
 
 **If you get a generic error message while uploading your ID, please go through the following steps:**
 1. Ensure you are using either Safari (on iPhone) or Chrome (on Android) as your web browser.
