@@ -10,7 +10,7 @@ To create a group,
 
 1. Hover over Settings, then click **Domains**.
 2. Click the name of the domain. 
-3. Click the **Groups** tab on the left. 
+3. Click the **Groups** tab on the left. meow meow meow meow meow
 4. Click **Create Group**.
 5. Select all of the group settings and permissions.
    - **Permission Group Name**: Enter a name for the group
